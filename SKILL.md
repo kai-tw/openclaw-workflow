@@ -65,6 +65,22 @@ See [WORKFLOW_ORCHESTRATION.md](references/workflow_orchestration.md) for detail
 
 See [LESSONS.md](references/lessons.md) for philosophy and framing.
 
+See [LESSONS_UPDATE_GUIDE.md](references/lessons_update_guide.md) for syncing lessons from workspace to skill.
+
+## Updating Lessons
+
+Capture lessons from mistakes and corrections in `tasks/lessons.md`. Periodically sync them to the skill:
+
+```bash
+# From openclaw-workflow repo
+python3 scripts/sync_lessons.py --workspace ~/.openclaw/workspace
+
+# Dry run (preview changes)
+python3 scripts/sync_lessons.py --workspace ~/.openclaw/workspace --dry-run
+```
+
+This merges workspace lessons into `references/lessons.md` for version control and sharing.
+
 ## Core Principles
 
 - **Simplicity First**: Make every change as simple as possible. Minimal code impact.
