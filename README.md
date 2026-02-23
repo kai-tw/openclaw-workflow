@@ -2,6 +2,10 @@
 
 A structured workflow framework for AI agents (Pi) designed to manage task execution, self-improvement, and code quality.
 
+## Credits
+
+This workflow orchestration is inspired by **Srishti Codes' Claude Agent workflow framework** ([X/Twitter](https://x.com/srishticodes/status/2025254119636959701)). The approach of using plan mode, subagents, verification gates, and autonomous bug fixing for building better AI workflows has been adapted and implemented for Pi's task management system.
+
 ## Overview
 
 This skill provides a complete orchestration framework for:
