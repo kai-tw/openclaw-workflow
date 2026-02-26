@@ -70,7 +70,7 @@ See [WORKFLOW_ORCHESTRATION.md](references/workflow_orchestration.md) for detail
 
 See [LESSONS.md](references/lessons.md) for philosophy and framing.
 
-See [PHASE1-PHASE2-ENHANCED-LESSONS.md](references/phase1-phase2-enhanced-lessons.md) for structured lesson format and file separation.
+See [LESSON-CAPTURE-FORMAT.md](references/lesson-capture-format.md) for structured lesson format and file separation.
 
 See [LESSONS_UPDATE_GUIDE.md](references/lessons_update_guide.md) for syncing lessons from workspace to skill.
 

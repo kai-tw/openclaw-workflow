@@ -51,7 +51,7 @@ When a lesson becomes broadly applicable:
 - **Workflow improvements** → \`AGENTS.md\`
 - **Tool gotchas** → \`TOOLS.md\`
 
-See \`references/phase1-phase2-enhanced-lessons.md\` for detailed guide.`;
+See \`references/lesson-capture-format.md\` for detailed guide.`;
 
 const handler: HookHandler = async (event) => {
   // Safety checks for event structure

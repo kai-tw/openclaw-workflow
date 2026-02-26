@@ -17,7 +17,7 @@ Injects a reminder to evaluate and capture learnings at session bootstrap.
   - When to log features (capability gaps)
   - How to track recurring patterns (Recurrence-Count)
   - Promotion path to AGENTS.md, SOUL.md, TOOLS.md
-  - Link to detailed guide (`references/phase1-phase2-enhanced-lessons.md`)
+  - Link to detailed guide (`references/lesson-capture-format.md`)
 
 ## Setup
 

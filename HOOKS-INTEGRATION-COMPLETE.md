@@ -24,7 +24,7 @@ PI_WORKFLOW_REMINDER.md
 ├── 💡 When to log features (capability gaps)
 ├── 🔄 How to track recurring patterns (Recurrence-Count ≥ 3)
 ├── ⬆️ How to promote to AGENTS.md/SOUL.md/TOOLS.md
-└── 🔗 Link to detailed guide (references/phase1-phase2-enhanced-lessons.md)
+└── 🔗 Link to detailed guide (references/lesson-capture-format.md)
 ```
 
 **Output**: ~400 tokens (lightweight, non-intrusive)
@@ -276,7 +276,7 @@ The reminder is injected at session start. If you edit SKILL.md or reference doc
 
 ## References
 
-- **Phase 1+2 Guide**: `references/phase1-phase2-enhanced-lessons.md`
+- **Lesson Format Guide**: `references/lesson-capture-format.md`
 - **Hook Documentation**: `hooks/openclaw/HOOK.md`
 - **Setup Guide**: `~/.openclaw/workspace/HOOKS-SETUP.md`
 - **Completion Summary**: `~/.openclaw/workspace/PHASE1-PHASE2-COMPLETION.md`
