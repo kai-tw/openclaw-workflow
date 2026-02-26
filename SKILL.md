@@ -134,6 +134,24 @@ python3 scripts/sync_lessons.py --workspace ~/.openclaw/workspace --dry-run
 
 This merges workspace lessons into `references/lessons.md` for version control and sharing.
 
+## Hooks (Optional)
+
+Enable automatic bootstrap reminders for self-improvement:
+
+```bash
+openclaw hooks enable pi-workflow
+```
+
+This injects a reminder at session start showing:
+- When to log lessons/errors/features
+- Format and metadata fields
+- Recurring pattern detection
+- Promotion paths
+
+See `hooks/openclaw/HOOK.md` for details.
+
+---
+
 ## Core Principles
 
 - **Simplicity First**: Make every change as simple as possible. Minimal code impact.
